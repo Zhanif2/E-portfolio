@@ -132,7 +132,7 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-  background-color: #5d3eff;
+  color: #5d3eff;
 }
 
 .personal__logo {
